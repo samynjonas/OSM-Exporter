@@ -16,8 +16,7 @@ dataToExport = [
     """way["highway"="tertiary"]""",
     """way["highway"="residential"]""",
     """way["railway"="tram"]""",
-    """way["building"="residential"]""",
-    """way["building"="commercial"]"""
+    """way["building"]"""
     ]
 
 
